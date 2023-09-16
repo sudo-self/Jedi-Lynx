@@ -1,5 +1,5 @@
 
-# <a href="link.jessejesse.com">LittleLink><??a>The DIY self-hosted
+# <a href="link.jessejesse.com">LittleLink></a>The DIY self-hosted
 
 ![Theme](https://cdn.cottle.cloud/littlelink/themesupport.gif)
 
